@@ -18,10 +18,26 @@ DEFAULT_FORM_LINK = (
     "viewform?usp=publish-editor"
 )
 
-MAX_RESPONSES_PER_RUN = 20
+MAX_RESPONSES_PER_RUN = 50
 
 SAMPLE_VALUES = {
-    "names": ["ram", "balaji", "satish", "sandesh", "vivek", "vishnu", "vaibhav", "amol"],
+    "names": [
+    "Aarav", "Vivaan", "Aditya", "Vihaan", "Arjun",
+    "Sai", "Reyansh", "Krishna", "Ishaan", "Shaurya",
+    "Atharva", "Dhruv", "Kabir", "Rohan", "Kunal",
+    "Siddharth", "Manav", "Yash", "Harsh", "Aniket",
+    "Omkar", "Pranav", "Tejas", "Nikhil", "Sanket",
+    "Rahul", "Rohit", "Vikas", "Akash", "Varun",
+    "Gaurav", "Shubham", "Tushar", "Sameer", "Ajay",
+
+    "Aaradhya", "Ananya", "Diya", "Ishika", "Kavya",
+    "Saanvi", "Myra", "Riya", "Priya", "Sneha",
+    "Pooja", "Neha", "Simran", "Tanvi", "Aditi",
+    "Nisha", "Shreya", "Meera", "Anushka", "Palak",
+    "Ritika", "Kritika", "Sakshi", "Komal", "Nikita",
+    "Swati", "Vaishnavi", "Shruti", "Payal", "Khushi",
+    "Jiya", "Avni", "Trisha", "Ira", "Mahi" ],
+    
     "departments": [
         "CSE (Computer Science Engineering)",
         "CSD",
