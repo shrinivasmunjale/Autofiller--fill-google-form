@@ -24,13 +24,4 @@
 - Python  
 - Selenium WebDriver  
 - Google Chrome  
-- ChromeDriver (via `webdriver-manager`)  
-
----
-
-## ⚙️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/autoFormer.git
-cd autoFormer
+- ChromeDriver (via `webdriver-manager`)
