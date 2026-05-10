@@ -17,8 +17,6 @@
 - Test mode (fill without submitting)  
 - Easily customizable sample data  
 
----
-
 ## 🛠️ Tech Stack
 
 - Python  
